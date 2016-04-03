@@ -1,2 +1,13 @@
-# discount_rss_feed
-init for smzdm rss feed
+# discount_feed
+main.py [configfile]
+
+configfile:
+keywords
+link
+email_from
+email_auth
+email_pass
+email_to
+smtp
+
+
